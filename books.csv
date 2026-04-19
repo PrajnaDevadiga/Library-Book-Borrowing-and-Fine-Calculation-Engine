@@ -1,0 +1,6 @@
+book_id,book_name,available_copies,fine_per_day
+B001,Python Basics,10,5
+B002,Data Science 101,5,10
+B003,Machine Learning,7,15
+B004,Deep Learning,3,20
+B005,SQL Guide,8,7

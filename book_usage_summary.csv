@@ -1,0 +1,6 @@
+book_id,book_name,borrow_count,late_returns,total_fine
+B001,Python Basics,1,0,0
+B002,Data Science 101,2,2,400
+B003,Machine Learning,2,0,0
+B004,Deep Learning,2,2,520
+B005,SQL Guide,1,0,0

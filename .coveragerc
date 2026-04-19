@@ -1,0 +1,8 @@
+[run]
+source = library_engine
+omit =
+    test_*.py
+
+[report]
+show_missing = True
+skip_covered = False
