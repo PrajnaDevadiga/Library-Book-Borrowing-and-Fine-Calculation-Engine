@@ -57,6 +57,11 @@ This generates:
 ```bash
 python -m pytest
 ```
+## Run Dashboard
+
+```bash
+streamlit run app.py
+```
 
 Configured behavior in `pytest.ini`:
 - Verbose test output (`-vv -ra`)
